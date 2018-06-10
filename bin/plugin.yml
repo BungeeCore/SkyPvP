@@ -1,0 +1,6 @@
+name: SkyPvP
+author: BungeeCore
+version: 1.0
+main: me.bungeecore.skypvp.SkyPvP
+commands:
+     addrankticket:
